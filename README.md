@@ -13,7 +13,7 @@ Um jogo interativo de estratégia e simulação de esports inspirado em sucessos
 
 ### 1. 🏆 Modo 13 a 0 Clássico
 O desafio purista:
-* Role o dado para sortear 3 equipes clássicas do VCT (LOUD 2022, Fnatic 2023, Sentinels, Paper Rex, EG 2023, EDG 2024, etc.).
+* Role o dado para sortear 3 equipes entre as **26 equipes clássicas do VCT** (LOUD 2022/2023, Fnatic 2023, Sentinels 2021/2024, Gen.G 2024, FPX 2022, OpTic 2022, Paper Rex 2023, EDG 2024, G2 2024, Heretics 2024, Leviatán 2024, Trace Esports, etc.).
 * Monte sua line-up sem ajuda de créditos, perks ou trocas após o draft.
 * Enfrente a fase de grupos GSL e os playoffs do Champions até a taça mundial.
 * Alcance o mítico **13 a 0 Flawless**!
